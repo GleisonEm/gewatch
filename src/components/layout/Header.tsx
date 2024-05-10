@@ -26,7 +26,7 @@ const Header: React.VFC<Props> = ({ searchIcon }) => {
 
   return (
     <StyledHeader>
-      <LogoLink to='/'>dunno</LogoLink>
+      <LogoLink to='/'>GEWATCH</LogoLink>
 
       <Nav>
         <StyledNavLink exact to='/'>

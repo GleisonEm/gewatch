@@ -64,7 +64,7 @@ const SignIn = () => {
         <Button type='button' google onClick={signInWithGoogle}>
           Sign in with Google
         </Button>
-        <StyledLink to='/signup'>New to Dunno? Sign up</StyledLink>
+        <StyledLink to='/signup'>New to GeWatch? Sign up</StyledLink>
       </Form>
     </Container>
   );
